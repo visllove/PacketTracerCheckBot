@@ -1,5 +1,5 @@
 # PacketTracerCheckBot
-A bot for distributing .pka files into specific folders by groups
+Бот для загрузки и распределения .pka-файлов и отчетов студентов
 
 **Create a .env-file with next parameters:**
 
